@@ -1,0 +1,6 @@
+.env
+venv/
+local_chat.ddb
+uploads/
+__pycache__/
+.DS_Store
